@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tour guide app</string>
+    <string name="place">Egypt Tourism</string>
+    <string name="Buttom1">Khan el-Khalili</string>
+    <string name="Buttom2">Egyptian Museum</string>
+    <string name="Buttom3">Giza pyramid</string>
+    <string name="Buttom4">Abu Simbel temples</string>
+    <string name="egyptinformation">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo</string>
+    <string name="khaninformation">The Good Place in egypt and most important</string>
+    <string name="khaninformation1">Is a major souk in the Islamic district of Cairo. The bazaar district is one of Cairo is main attractions for tourists</string>
+    <string name="gizainformation">The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering</string>
+    <string name="abuinformation">The Abu Simbel temples are two massive rock temples at Abu Simbel (أبو سمبل in Arabic), a village in Nubia, southern Egypt, near the border with Sudan.</string>
+</resources>
